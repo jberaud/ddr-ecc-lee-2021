@@ -5,6 +5,7 @@ weight = 10
 ## Fermat
 
 Hardware + Software company based in Paris and Basel
+
 > "An analytic engine fully integrated with high capacity Flash-based Storage"
 
 ---
