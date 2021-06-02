@@ -105,7 +105,7 @@ Step back again!
 ## Column Adress and beat number [[11]](https://forums.xilinx.com/t5/Memory-Interfaces-and-NoC/ECCCADDR1-in-DDRC-Module/td-p/924982)
 
 * 12 bits column address
-* 8 bursts of data for each command (x 64 bits = 64 bytes)
+* 8 beats of data for each command (x 64 bits = 64 bytes)
 * Bits [2:0] of the column will always be 0
 * If col[2:0] = 0 => data beats 0-3
 * If col[2:0] = 4 => data beats 4-7
