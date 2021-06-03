@@ -50,8 +50,7 @@ Step back!
 	XScuGic *gicInstPtr = getGicInstPtr();
 
 	// Register interrupt to handle DDR ECC errors.
-	if (!RegIntrInGic(DDR_QOS_IRQ_ID,
-			(Xil_InterruptHandler)DdrEccErrorHandler,
+	if (!RegIntrInGic(DDR_QOS_IRQ_ID, DdrEccErrorHandler,
 			gicInstPtr, 0, 1)) {
 		return false;
 	}
