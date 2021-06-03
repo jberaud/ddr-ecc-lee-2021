@@ -2,6 +2,10 @@
 weight = 80
 +++
 
+## Conclusion
+
+---
+
 ## Questions ?
 
 ---

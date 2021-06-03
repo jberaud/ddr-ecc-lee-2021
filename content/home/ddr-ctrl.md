@@ -69,6 +69,12 @@ Step back!
 
 ---
 
+## ECC poisoning [[6]](https://www.xilinx.com/html_docs/registers/ug1087/ug1087-zynq-ultrascale-registers.html#mod___ddrc.html)
+
+![](/ecccfg1.png)
+
+---
+
 ## ECC poisoning over JTAG
 
 ```tcl

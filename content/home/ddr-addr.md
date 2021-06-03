@@ -2,13 +2,13 @@
 weight = 50
 +++
 
-## ECCCADDR0 [[6]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr0.html)
+## ECCCADDR0 [[7]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr0.html)
 
 ![](/eccaddr0.png)
 
 ---
 
-## ECCCADDR1 [[7]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr1.html)
+## ECCCADDR1 [[8]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr1.html)
 
 ![](/eccaddr1.png)
 
@@ -18,36 +18,36 @@ Step back again!
 
 ---
 
-## DDR4 top level [[8]](https://www.systemverilog.io/ddr4-basics)
+## DDR4 top level [[9]](https://www.systemverilog.io/ddr4-basics)
 
 ![](/ddr4-basics-top-level.png)
 
 ---
 
-## DDR4 banks [[8]](https://www.systemverilog.io/ddr4-basics)
+## DDR4 banks [[9]](https://www.systemverilog.io/ddr4-basics)
 
 ![](/ddr4-basics-banks.png)
 
 ---
 
-## DDR4 row column [[8]](https://www.systemverilog.io/ddr4-basics)
+## DDR4 row column [[9]](https://www.systemverilog.io/ddr4-basics)
 
 ![](/ddr4-basics-row-col.png)
 
 ---
 
-## DDR4 rank (depth cascading) [[8]](https://www.systemverilog.io/ddr4-basics)
+## DDR4 rank (depth cascading) [[9]](https://www.systemverilog.io/ddr4-basics)
 
 ![](/ddr4-basics-rank.png)
 
 ---
 
-## DDR4 width cascading [[8]](https://www.systemverilog.io/ddr4-basics)
+## DDR4 width cascading [[9]](https://www.systemverilog.io/ddr4-basics)
 
 ![](/ddr4-basics-width-cascade.png)
 
 ---
-## DDR4 address bus topology [[9]](https://www.rambus.com/fly-by-command-address/)
+## DDR4 address bus topology [[10]](https://www.rambus.com/fly-by-command-address/)
 
 ![](/ddr-addr-bus.png)
 
@@ -70,7 +70,7 @@ Step back again!
 
 ---
 
-## ADDRMAP Registers [[10]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___addrmap0.html)
+## ADDRMAP Registers [[11]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___addrmap0.html)
 ![](/addrmap0.png)
 
 ---
@@ -96,13 +96,13 @@ Step back again!
 
 ---
 
-## ECCCADDR1 [[7]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr1.html)
+## ECCCADDR1 [[8]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr1.html)
 
 ![](/eccaddr1.png)
 
 ---
 
-## Column Adress and beat number [[11]](https://forums.xilinx.com/t5/Memory-Interfaces-and-NoC/ECCCADDR1-in-DDRC-Module/td-p/924982)
+## Column Adress and beat number [[12]](https://forums.xilinx.com/t5/Memory-Interfaces-and-NoC/ECCCADDR1-in-DDRC-Module/td-p/924982)
 
 * 12 bits column address
 * 8 beats of data for each command (x 64 bits = 64 bytes)
@@ -112,7 +112,7 @@ Step back again!
 
 ---
 
-## Beat Number [[12]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___eccstat.html)
+## Beat Number [[13]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___eccstat.html)
 
 ![](/eccstat.png)
 
