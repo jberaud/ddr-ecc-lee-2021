@@ -58,7 +58,7 @@ Step back again!
 
 * 16GB = 34bits = 17179869184
 * 64 Bytes bursts = 8 x (8 Bytes words = 64 bits)
-* Bits [2:0] unused -> burst size
+* Bits [2:0] unused -> 8 Bytes words = 64 bits
 * 31 bits left to map
 * Rank, Bank Group, Bank, Row, Column
 
