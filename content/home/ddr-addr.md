@@ -2,13 +2,13 @@
 weight = 50
 +++
 
-## ECCADDR0 [[6]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr0.html)
+## ECCCADDR0 [[6]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr0.html)
 
 ![](/eccaddr0.png)
 
 ---
 
-## ECCADDR1 [[7]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr1.html)
+## ECCCADDR1 [[7]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr1.html)
 
 ![](/eccaddr1.png)
 
@@ -96,7 +96,7 @@ Step back again!
 
 ---
 
-## ECCADDR1 [[7]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr1.html)
+## ECCCADDR1 [[7]](https://www.xilinx.com/html_docs/registers/ug1087/ddrc___ecccaddr1.html)
 
 ![](/eccaddr1.png)
 
